@@ -1,4 +1,4 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Audio sobre: Descobrindo IAs Generativas em 5 Minutos 🎙️
 
 ## 📒 Descrição
 Este podcast de oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
